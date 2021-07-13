@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Yeti
-- 👀 I’m interested in stuff that I can't really do.
-- 🌱 I’m currently learning Python
-- 📫 Give me a hug! {Yeti#1652 on Discord} 
+### Hello!
 
-I'm bored
+I code as a hobby and I'm decently bad at it. 
+
+### Send me a virtual hug on discord!
+
+![](https://discord.c99.nl/widget/theme-3/652407551849267200.png)
+
+## My projects:
+
+> SpotiLike
+
+[Save Spotify songs with hotkeys to your playlists/liked songs libary](https://github.com/yeti2006/SpotiLike)
 
 <!---
 yeti2006/yeti2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
