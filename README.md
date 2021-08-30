@@ -4,8 +4,7 @@ I code as a hobby and I'm decently bad at it.
 
 ### Send me a virtual hug on discord!
 
-![](https://discord.c99.nl/widget/theme-3/652407551849267200.png)
-
+![](https://discord.com/users/652407551849267200)
 ## My projects:
 
 > SpotiLike
