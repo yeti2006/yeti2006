@@ -2,7 +2,7 @@
 
 I code as a hobby and I'm decently bad at it. 
 
-http://yeti.ga
+https://yeti.ga
 
 ### Send me a virtual hug on discord!
 
